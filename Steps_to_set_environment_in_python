@@ -1,0 +1,10 @@
+sudo apt-get install python3-venv
+mkdir environment
+python3 -m venv environment
+cd environment/bin
+source activate
+#envirinment activated
+
+source deactivate
+@envirinment deactivated
+
